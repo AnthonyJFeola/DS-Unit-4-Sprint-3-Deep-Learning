@@ -11,3 +11,9 @@ Read About the History of General Artificial Intelligence Research, the future o
 * [Yann LeCunn Interview](https://www.youtube.com/watch?v=SGSOCuByo24)
 
 Enjoy!  :coffee:
+
+# Questions
+
+1. What is the future of our privacy and how will AI effect our basic human rights on a day-to-day basis?
+
+2. How is/will AI be used in a surveillance use case where models are subject to false positives/false negatives and what are the legal implications of such tactics?
